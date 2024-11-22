@@ -8,7 +8,7 @@ Description from original author:
 
 Optimized the algorithm and re-construct the code based on the original author's work, and used the UN/LOCODE dataset to extract global port information.
 
-## usage
+## Usage
 
 ```bash
 $ docker compose build
